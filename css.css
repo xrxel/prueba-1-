@@ -31,20 +31,6 @@ a:hover{
     color: red;
 }
 
-.a{
-    color: rgb(201, 1, 251);
-}
-.b{
-    color: rgb(47, 0, 255);
-}
-.c{
-    color: rgb(237, 229, 22);
-}
-.d{
-    color: rgb(50, 28, 28);
-}
-.e{
-    color:rgb(255, 68, 0);
 }
 nav{
     max-width: 1500px;
